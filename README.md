@@ -1,2 +1,1 @@
-# react-site
-React App for personal website
+# I made a thing
